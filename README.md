@@ -1,4 +1,4 @@
-### One leetcode a day keeps the bad mood away
+<h1 align="center"> ✨ One leetcode a day keeps the bad mood away ✨ </h1>
 
 <!--
 **aa01912001/aa01912001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
